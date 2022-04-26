@@ -6,4 +6,8 @@ new commit
 
 new new commit
 
+<<<<<<< HEAD
 I hope no problem
+=======
+this is bound to cause trouble
+>>>>>>> very-bad
