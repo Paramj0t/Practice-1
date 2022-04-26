@@ -6,4 +6,4 @@ new commit
 
 new new commit
 
-update branch
+this is bound to cause trouble
